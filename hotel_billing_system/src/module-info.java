@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author steph
+ *
+ */
+module hotel {
+}
