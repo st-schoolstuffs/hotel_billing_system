@@ -3,9 +3,6 @@ package hotel_billing_system;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
-// TRAINER'S METHOD 
-
 class Hotel {
 	String userName;
 	int itemID;
